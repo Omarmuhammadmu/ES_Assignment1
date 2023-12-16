@@ -26,7 +26,7 @@
 /*Define priority for each task*/
 /** For the RM: T1_period = 3, T1_period = 2, T1_period = 1
  *  For the Different priority assignment: T1_period = 18, T1_period = 37, T1_period = 5
- *  For the RM: T1_period = 1, T1_period = 1, T1_period = 1
+ *  For the RR: T1_period = 1, T1_period = 1, T1_period = 1
  * **/
 #define T1_priority 3
 #define T2_priority 2
